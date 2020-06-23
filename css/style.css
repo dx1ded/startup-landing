@@ -282,7 +282,7 @@
 }
 
 .burger.closed {
-  left: -110vh;
+  left: -100%;
 }
 
 .burger__list {
